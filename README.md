@@ -3,8 +3,15 @@
 Esse repositório possui dois scripts escritos no jupyter notebook em Python e um dashboard construído no Power BI. 
 Sendo o primeiro script referente ao processo de ETL realizado nas bases de dados, o segundo correspondente a análise descritiva dos dados especificamente para *produtos* e por fim um dashboard que possui insights e indicadores relativos às vendas e clientes da empresa. 
 
+Adicionalmente podem ser encontradas as bases de dados e prints das páginas do dashboard.
 
-### Páginas do dashboard <br />
+### Objetivos
+
+- Uso de python para a ETL dos dados, tratando e remodelagem para análise
+- Apresentar um painel de BI e uma análise detalhada dos pontos mais relevantes de um negócio de vendas
+
+
+### Dashboard: <br />
 
 #### Capa
 <p align="center">
