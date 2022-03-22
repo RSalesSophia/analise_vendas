@@ -31,5 +31,5 @@ Adicionalmente podem ser encontradas as bases de dados e prints das páginas do 
 
 <img src= "https://user-images.githubusercontent.com/52143378/159402491-dd3513b3-1d29-4098-91c7-57cb14aa7282.jpg" width=400> |  <img src= "https://user-images.githubusercontent.com/52143378/159402492-577ab1b0-5163-4add-b781-49a2f9ba014e.jpg" width=400> <br />
 
-**Para mais detalhes:** https://bityli.com/wglsy
+**Para mais detalhes:** https://tinyurl.com/sophiaBI
 
