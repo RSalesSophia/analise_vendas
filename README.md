@@ -24,12 +24,12 @@ Adicionalmente podem ser encontradas as bases de dados e prints das páginas do 
 #### Página 1
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/52143378/159386644-f6d75c11-48aa-4c2f-b1f5-91522e1ab6db.jpg" width=400> | <img src= "https://user-images.githubusercontent.com/52143378/159386978-f094a628-cbb1-49b9-b410-d4dc9c80286d.jpg" width=400> <br />
+<img src="https://user-images.githubusercontent.com/52143378/159402485-946ca623-619d-4d8d-b2de-8bda181deb15.jpg" width=400> | <img src= "https://user-images.githubusercontent.com/52143378/159402488-0b164179-2fbb-44b1-bc71-1c77a74f7f70.jpg" width=400> <br />
 </p>
 
 #### Página 2
 
-<img src= "https://user-images.githubusercontent.com/52143378/159386981-5f183158-d888-4928-a5d8-1e71b359e231.jpg" width=400> |  <img src= "https://user-images.githubusercontent.com/52143378/159386983-02c0fd17-ffed-4538-a0e5-8b86ff4310ca.jpg" width=400> <br />
+<img src= "https://user-images.githubusercontent.com/52143378/159402491-dd3513b3-1d29-4098-91c7-57cb14aa7282.jpg" width=400> |  <img src= "https://user-images.githubusercontent.com/52143378/159402492-577ab1b0-5163-4add-b781-49a2f9ba014e.jpg" width=400> <br />
 
-**Para mais detalhes:** https://bityli.com/SHMXs
+**Para mais detalhes:** https://bityli.com/wglsy
 
