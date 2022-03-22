@@ -24,12 +24,12 @@ Adicionalmente podem ser encontradas as bases de dados e prints das páginas do 
 #### Página 1
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/52143378/159402485-946ca623-619d-4d8d-b2de-8bda181deb15.jpg" width=400> | <img src= "https://user-images.githubusercontent.com/52143378/159402488-0b164179-2fbb-44b1-bc71-1c77a74f7f70.jpg" width=400> <br />
+<img src="https://user-images.githubusercontent.com/52143378/159502623-d2c4d99e-a1f5-4b74-a6c7-147909f8a976.jpg" width=400> | <img src= "https://user-images.githubusercontent.com/52143378/159502631-6694fd15-5f3a-47f7-810c-b88c194017e4.jpg" width=400> <br />
 </p>
 
 #### Página 2
 
-<img src= "https://user-images.githubusercontent.com/52143378/159402491-dd3513b3-1d29-4098-91c7-57cb14aa7282.jpg" width=400> |  <img src= "https://user-images.githubusercontent.com/52143378/159402492-577ab1b0-5163-4add-b781-49a2f9ba014e.jpg" width=400> <br />
+<img src= "https://user-images.githubusercontent.com/52143378/159502633-3bb2320f-cd1e-4c27-b922-c61de6b9d791.jpg" width=400> |  <img src= "https://user-images.githubusercontent.com/52143378/159502637-70357646-6e07-4e39-bba2-93bd6713bad6.jpg" width=400> <br />
 
 **Para mais detalhes:** https://tinyurl.com/sophiasalesBI
 
