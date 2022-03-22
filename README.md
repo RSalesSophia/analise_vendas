@@ -21,5 +21,5 @@ Sendo o primeiro script referente ao processo de ETL realizado nas bases de dado
 
 <img src= "https://user-images.githubusercontent.com/52143378/159386981-5f183158-d888-4928-a5d8-1e71b359e231.jpg" width=400> |  <img src= "https://user-images.githubusercontent.com/52143378/159386983-02c0fd17-ffed-4538-a0e5-8b86ff4310ca.jpg" width=400> <br />
 
-**Para mais detalhes, segue o link:** https://app.powerbi.com/view?r=eyJrIjoiODM4YWZlYmUtMzVhMS00NzVkLThlNTQtYTgwNDE2NzM3YWVhIiwidCI6IjVhM2UxZWI5LWM3NzctNDQ1YS04MjQyLWQ4MjVhNDYxYjEyYiJ9
+**Para mais detalhes:** https://bityli.com/SHMXs
 
