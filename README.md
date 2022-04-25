@@ -33,5 +33,5 @@ Adicionalmente podem ser encontradas as bases de dados e prints das páginas do 
 <img src= "https://user-images.githubusercontent.com/52143378/159502633-3bb2320f-cd1e-4c27-b922-c61de6b9d791.jpg" width=400> |  <img src= "https://user-images.githubusercontent.com/52143378/159502637-70357646-6e07-4e39-bba2-93bd6713bad6.jpg" width=400> <br />
 </p>
 
-**Para mais detalhes:** https://tinyurl.com/sophiasalesrBI
+**Para mais detalhes:** https://tinyurl.com/sophiasrBI
 
