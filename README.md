@@ -18,7 +18,7 @@ Adicionalmente podem ser encontradas as bases de dados e prints das páginas do 
 
 #### Capa
 <p align="center">
-<img src=https://user-images.githubusercontent.com/52143378/159386093-5a10d555-b303-45cf-9948-2ae04bf9e400.jpg width=400>  
+<img src=https://user-images.githubusercontent.com/52143378/165175093-e8707339-cf44-4cdd-a10a-a06bc3176a21.jpeg width=400>  
  </p>
 
 #### Página 1
